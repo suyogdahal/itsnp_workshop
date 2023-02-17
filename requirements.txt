@@ -1,0 +1,6 @@
+# Basic Installation
+nltk==3.7
+pandas
+scikit-learn
+flask
+streamlit
